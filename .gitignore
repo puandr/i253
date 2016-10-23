@@ -1,0 +1,7 @@
+#see on .gitignore testimise fail
+
+#järgnevalt me ei kontrolli suvalinekaust kausta sisu
+suvalinekaust/**
+
+#järgnevalt me ei kontrolli txt faili jooksvas kataloogis
+*.txt
